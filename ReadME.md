@@ -1,6 +1,6 @@
 # Multi-Modal Transcriptomic Classification of Breast Cancer
 
-This repository contains the code, models, and evaluation framework for the research paper: **[Insert Your Chosen Title Here]**.
+This repository contains the code, models, and evaluation framework for the research paper: **Comparative Evaluation of Deep Tabular and Generative Language Models for High-Dimensional Transcriptomic Subtyping in Breast Cancer**.
 
 ## Overview
 Accurate molecular subtyping of breast cancer is paramount for targeted oncology, yet transcriptomic classification is severely bottlenecked by the "curse of dimensionality" ($p \gg n$). This project evaluates the diagnostic efficacy of traditional ensemble learning, deep tabular architectures, and Large Language Models (LLMs) on high-dimensional genomic data.
