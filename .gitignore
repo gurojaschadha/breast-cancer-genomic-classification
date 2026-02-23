@@ -1,0 +1,15 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.h5
+*.npy
+data/
+
+# Ignore Model Weights
+*.pth
+*.pt
+results_*/
+
+# Ignore caches
+__pycache__/
+.ipynb_checkpoints/
